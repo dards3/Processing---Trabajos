@@ -1,0 +1,12 @@
+20/03 - Ejercicio integrador: composición con figuras básicas
+
+Hice un dibujo de una casa utilizando rectángulos y líneas en Processing.
+
+Características:
+- Uso de width y height para posiciones relativas
+- Organización del código mediante funciones (dibujarCasa, dibujarSuelo)
+- Composición adaptable a distintos tamaños de pantalla
+
+Archivos incluidos:
+- casa_proporcional.pde (programa)
+- boceto_casa.jpg (diseño previo en papel)

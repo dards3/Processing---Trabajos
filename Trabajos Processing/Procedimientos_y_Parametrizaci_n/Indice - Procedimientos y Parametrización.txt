@@ -1,0 +1,10 @@
+Processing - Procedimientos y Parametrización 
+
+Descripción:
+Hice una casita como en el anterior trabajo pero ahora que aparezca solamente cuando se hace click mediante una función con parámetros.
+Haces un click y aparece una casa en donde hiciste el click y queda dibujada. Se pueden cambiar los valores (ancho, alto de la casa, etc) y va a seguir manteniendo las proporciones.
+
+Características del trabajo:
+- Uso de parámetros (x, y, ancho, alto) para ubicar y escalar la casa
+- Posicionamiento relativo de todos los elementos
+- Interacción con el mouse (cada click genera una nueva casa)
