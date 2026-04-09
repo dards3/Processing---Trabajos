@@ -1,0 +1,10 @@
+Registro de posiciones con arrays
+
+Descripción:
+El programa permite guardar posiciones del mouse al hacer click y dibuja círculos en esas posiciones, una vez que se dibujen 10 circulos, 
+al onceavo se borra el primero y lo reemplaza.
+
+Características:
+- Uso de arrays para almacenar coordenadas
+- Límite de 10 elementos
+- Reemplazo circular de valores
